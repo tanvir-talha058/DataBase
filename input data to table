@@ -1,0 +1,13 @@
+create table student (
+  rollno int,
+  name varchar(50),
+    pass int
+);
+
+insert into student
+    (rollno, name, pass)
+values
+    (101,"tanvir", 556125),
+    (103,"aslam", 5625320),
+    (201, "simran", 852);
+
