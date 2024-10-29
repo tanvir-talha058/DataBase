@@ -1,0 +1,12 @@
+create table student (
+  rollno int,
+  name varchar(50)
+);
+
+insert into student
+    (rollno, name)
+values
+    (101,"tanvir"),
+    (103,"aslam");
+
+select *from student;
