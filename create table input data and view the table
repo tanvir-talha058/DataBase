@@ -4,11 +4,13 @@ create table student (
     pass int
 );
 
+
 insert into student
     (rollno, name, pass)
 values
     (101,"tanvir", 556125),
     (103,"aslam", 5625320),
     (201, "simran", 852);
+
 
 select *from student;
