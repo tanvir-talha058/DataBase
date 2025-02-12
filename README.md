@@ -17,6 +17,7 @@ Use the following command to clone the repository to your local machine:
 git clone https://github.com/tanvir-talha058/database.git
 ```
 
+
 ### 3️⃣ Open MySQL and Create a Database
 After installing MySQL, log into MySQL and create a database for practicing:
 ```sql
